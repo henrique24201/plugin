@@ -5,10 +5,8 @@
   <author/>
   <content src="index.html"/>
   <allow-navigation href="*"/>
-
   <preference name="DisallowOverscroll" value="true"/>
   <preference name="Orientation" value="default"/>
-
   <preference name="loglevel" value="DEBUG"/>
   <preference name="AndroidLaunchMode" value="singleTop"/>
   <preference name="ErrorUrl" value=""/>
@@ -16,7 +14,6 @@
   <preference name="KeepRunning" value="true"/>
   <preference name="SplashScreen" value="screen"/>
   <preference name="SplashScreenDelay" value="1000"/>
-
   <preference name="AllowInlineMediaPlayback" value="false"/>
   <preference name="AutoHideSplashScreen" value="true"/>
   <preference name="BackupWebStorage" value="cloud"/>
@@ -35,7 +32,6 @@
     <param name="ios-package" value="CDVLocalStorage"/>
   </feature>
   <preference name="UIWebViewDecelerationSpeed" value="normal"/>
-
   <preference name="monaca:AndroidIsPackageNameSeparate" value="false"/>
   <preference name="target-device" value="universal"/>
   <platform name="ios">
